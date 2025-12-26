@@ -42,3 +42,13 @@ body {
 main {
   padding: 60px 32px;
 }
+.logo-wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.logo-img {
+  width: 180px;
+  height: auto;
+}
